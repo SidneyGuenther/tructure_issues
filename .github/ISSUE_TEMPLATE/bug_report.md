@@ -1,5 +1,5 @@
 ---
-name: Feature Template
+name: Bug Report
 about: Feature issue created by a maintainer.
 title: ''
 labels: ''
