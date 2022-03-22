@@ -1,6 +1,6 @@
 ---
 name: Bug Report
-about: Feature issue created by a maintainer.
+about: Help me to improve the code.
 title: ''
 labels: ''
 assignees: ''
